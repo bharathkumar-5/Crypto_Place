@@ -29,7 +29,7 @@ CryptoPlace is a cryptocurrency website that allows users to search for various 
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) **Version Control**
 
 ## Deployment
-CryptoPlace is deployed and live at: **[CryptoPlace](#)**
+CryptoPlace is deployed and live at: **[CryptoPlace](https://crypto-placeapp.vercel.app)**
 
 ## Installation and Usage
 ### 📥 Clone the repository:
